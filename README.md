@@ -1,4 +1,4 @@
-# Lumiere-for-2.82
+# Lumiere for 2.82
 
 ## Interactive Lighting add-on for Blender 
 Wiki : https://github.com/clarkx/Lumiere-for-2.8//wiki

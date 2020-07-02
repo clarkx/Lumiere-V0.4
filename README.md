@@ -1,4 +1,4 @@
-# Lumiere for 2.82
+# Lumiere V0.4 for 2.82
 
 ## Interactive Lighting add-on for Blender 
 

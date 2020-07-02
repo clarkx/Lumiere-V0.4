@@ -1,7 +1,6 @@
 # Lumiere for 2.82
 
 ## Interactive Lighting add-on for Blender 
-Wiki : https://github.com/clarkx/Lumiere-for-2.8//wiki
 
 ## Installation :
 - Download the zip file ready to install directly from this link : https://github.com/clarkx/Lumiere-for-2.81/raw/master/Zip/Lumiere.zip
